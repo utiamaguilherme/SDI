@@ -1,0 +1,17 @@
+Primeiramente olá!
+Para compilar use make, caso não ocorra a compilação use make clean e execute make novamente.
+
+A comunicação está ocorrendo normalmente, usuario digita mensagem e o servidor envia para todos.
+Após o envio, ele cria arquivos .cliente e .servidor do respectivo usuário.
+Está com problemas no arquivo, 80% codigo feito, mas deu ruim no meio do caminho.
+
+Minha dupla é o Caio.
+A saída é no formato <<<Nome Usuario>>> mensagem
+
+O codigo ele faz a partede conexão com o servidor, após isso o servidor guarda o id do usuario e o nome dele, isto é, ninguem com o mesmo nome conseguirá logar no chat. Após feita a comunicação o servidor recebe e envia para todos que estão no chat. Fazendo seus arquivos (bugados).
+
+Se o usuario quiseer sair do chat, basta digitar "quit".
+
+Qualquer duvida, me pergunte (Utiama).
+
+Utiama. 
